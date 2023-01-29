@@ -1,0 +1,7 @@
+.text-shadow {
+    text-shadow: 3px 3px #404040;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
