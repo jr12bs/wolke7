@@ -5,3 +5,8 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.lage li {
+    font-size: larger;
+    margin-bottom: 4px;
+}
