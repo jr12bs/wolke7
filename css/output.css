@@ -707,6 +707,22 @@ video {
   width: 24rem;
 }
 
+.max-w-lg {
+  max-width: 32rem;
+}
+
+.max-w-3xl {
+  max-width: 48rem;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
+}
+
+.max-w-6xl {
+  max-width: 72rem;
+}
+
 .scroll-pt-10 {
   scroll-padding-top: 2.5rem;
 }
