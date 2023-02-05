@@ -2,11 +2,15 @@
     text-shadow: 3px 3px #404040;
 }
 
-.dropdown:hover .dropdown-content {
-    display: block;
+.list-style-circle {
+    list-style-type: circle;
 }
 
 .lage li {
     font-size: larger;
     margin-bottom: 4px;
+}
+
+.lang-dropdown-checkbox:checked ~ .lang-dropdown {
+    display: block;
 }
